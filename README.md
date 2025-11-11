@@ -25,9 +25,9 @@ Output the path and total distance.
 
 Technologies
 
-Language: C# / Python (depending on your implementation)
+Language: C# 
 
-GUI: Windows Forms / Tkinter (if applicable)
+GUI: Windows Forms 
 
 Algorithms: Dijkstra’s shortest path algorithm
 
